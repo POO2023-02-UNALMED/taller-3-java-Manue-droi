@@ -14,8 +14,7 @@ public class Control {
 		return tv;
 	}
 	public void setCanal(int canal) {
-		this.tv.setCanal(canal);
-		
+		this.tv.setCanal(canal);	
 	}
 	public int getCanal() {
 		return this.tv.getCanal();
@@ -44,7 +43,7 @@ public class Control {
 	public void turnOn() {
 		this.tv.setEstado(true);
 	}
-	}
+}
 	
 	
 	
