@@ -42,10 +42,10 @@ public class TV {
 	public void setVolumen(int volumen) {
 		this.volumen = volumen;
 	}
-	public Control getContro() {
+	public Control getControl() {
 		return control;
 	}	
-	public void setContrato(Control control) {
+	public void setControl(Control control) {
 		this.control = control;
 	}
 	
