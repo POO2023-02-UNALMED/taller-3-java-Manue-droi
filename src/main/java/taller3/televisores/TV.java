@@ -88,11 +88,7 @@ public class TV {
 			this.volumen --;
 		}
 	}
-	
-	
-	public static int getNumTV() {
-		return numTV;
-	}
+
 
 }
 	
