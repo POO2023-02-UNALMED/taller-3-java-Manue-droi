@@ -88,7 +88,7 @@ public class TV {
 			this.volumen --;
 		}
 	}
-	public static void setnumTV(int num) {
+	public static void setNumTV(int num) {
 		numTV = num;
 	}
 	public static int getNumTV() {
