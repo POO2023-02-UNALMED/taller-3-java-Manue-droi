@@ -89,6 +89,10 @@ public class TV {
 		}
 	}
 	
+	
+	public static int getNumTV() {
+		return numTV;
+	}
 
 }
 	
